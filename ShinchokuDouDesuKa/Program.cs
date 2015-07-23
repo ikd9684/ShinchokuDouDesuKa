@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace jp._9684.sandbox.SinchokuDouDesuKa
+namespace jp._9684.sandbox.ShinchokuDouDesuKa
 {
-    class Program
+    class ShinchokuDouDesuKa
     {
         static void Main(string[] args)
         {
